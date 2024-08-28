@@ -1,0 +1,3 @@
+langchain
+zhipuai
+openai==1.7.0
